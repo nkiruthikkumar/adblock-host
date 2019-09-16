@@ -1,3 +1,5 @@
 https://discourse.pi-hole.net/t/update-the-best-blocking-lists-for-the-pi-hole-alternative-dns-servers-2019/13620
 
 https://filterlists.com/
+
+https://www.github.developerdan.com/hosts/
