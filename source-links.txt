@@ -2,4 +2,6 @@ https://discourse.pi-hole.net/t/update-the-best-blocking-lists-for-the-pi-hole-a
 
 https://filterlists.com/
 
+https://firebog.net/
+
 https://www.github.developerdan.com/hosts/
