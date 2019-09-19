@@ -5,3 +5,7 @@ https://filterlists.com/
 https://firebog.net/
 
 https://www.github.developerdan.com/hosts/
+
+https://v.firebog.net/hosts/lists.php?type=all
+
+Regex - list : https://github.com/mmotti/pihole-regex/blob/master/regex.list
